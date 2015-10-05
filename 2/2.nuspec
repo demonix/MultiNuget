@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>FileTransfer2</id>
+    <version>$version$</version>
+    <authors>Kontur.Extern</authors>
+    <owners>Kontur.Extern</owners>
+    <projectUrl>https://git.skbkontur.ru/ke/ft</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Branch: $branch$ | Commit: $commit$ | Publisher: $publisher$</description>
+    <copyright>Made in Russia</copyright>
+    <tags>ft</tags>
+  </metadata>
+  <files>
+    <file src="**" target="" />
+  </files>
+</package>
