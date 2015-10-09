@@ -3,5 +3,7 @@
 <Target Name ="DoIt">
 <Message Text="##teamcity[publishArtifacts '1\**=>some.zip/1']" />
 <Message Text="##teamcity[publishArtifacts '2\**=>some.zip/2']" />
+<Message Text="##teamcity[publishArtifacts '1\** => art.zip/1, 2\** => art.zip/2']" />
+
 </Target>
 </Project>
